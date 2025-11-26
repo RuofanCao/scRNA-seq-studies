@@ -1,0 +1,10 @@
+Data Origin Research: Patient-derived micro-organospheres enable clinical precision oncology, Cell Stem Cell. 2022 June 02; 29(6): 905-917.e6. doi:10.1016/j.stem.2022.04.006.
+Background: Patient-derived xenografts (PDX) and organoids (PDO) are capable of simulating the clinical responses to cancer treatment. 
+However, using these models to guide timely clinical decisions for cancer patients remains challenging. 
+Expanding a sufficient number of PDOs for drug screening is still too slow and inefficient, and cannot be adopted in clinical practice. 
+Since clinical treatment decisions are usually made within 14 days after diagnosis, the existing time frame for generating PDOs will lead to unacceptable treatment delays.
+Data: single-cell RNA-seq datasets from melanoma patients (Series GSE184242) 
+Aim: Using droplet emulsion microfluidic technology, thousands of microorganoid spheres (MOS) are rapidly generated from a small amount of patient tissue - the ideal patient-derived model for clinical precision oncology. A clinical study targeting recently diagnosed metastatic colorectal cancer (CRC) patients used the MOS-based precision oncology method to reliably assess tumor drug responses within 14 days, which is suitable for guiding clinical treatment decisions. Additionally, MOS captures the original stromal cells and allows T cells to penetrate, providing clinical detection for testing immunotherapy (IO) treatments (such as PD-1 blockade, bispecific antibodies, and T-cell therapies) on patient tumors.
+Conclusion:
+1. MOS captures the tumor and its microenvironment of each patient for rapid clinical drug selection and analysis of immunotherapy
+2. The clinical study of 8 patients with metastatic CRC showed that the MOS detection readings within 14 days (average 10 days) correlated with clinical outcomes.
