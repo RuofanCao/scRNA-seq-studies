@@ -1,15 +1,3 @@
-## 
-### ---------------
-###
-### Create: Jianming Zeng
-### Date:  2023-01-16 20:53:22
-### Email: jmzeng1314@163.com
-### Blog: http://www.bio-info-trainee.com/
-### Forum:  http://www.biotrainee.com/thread-1376-1-1.html
-### CAFS/SUSTC/Eli Lilly/University of Macau
-### Update Log: 2023-01-16  First version 
-###
-### ---------------
 rm(list=ls())
 options(stringsAsFactors = F) 
 getwd()
