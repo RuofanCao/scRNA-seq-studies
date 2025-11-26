@@ -1,0 +1,8 @@
+Data Origin Research: Prediction of immunotherapy responsiveness in melanoma through single-cell sequencing-based characterization of the tumor immune microenvironment
+https://www-sciencedirect-com.iclibezp1.cc.ic.ac.uk/science/article/pii/S1936523324000354?via%3Dihub
+Backgound: The response of melanoma patients to immune checkpoint blockade (ICB) is highly heterogeneous.
+Data: single-cell RNA-seq datasets from melanoma patients (GSE72056, GSE115978, GSE120575) 
+Aim: to explore the differences in tumor immune microenvironment (TiME) composition between ICB-resistant and responsive tissues and develop a predictive model for immune therapy response
+Conclusion:
+1. ICB-resistant or responsive tissues are respectively dominated by abundant myeloid cells and CD8+ T cells or CD4+ T cells. 
+2. Among CD4+ T cells, CD4+CXCL13+ Tfh-like cells are associated with immune escape-related genes and immunosuppressive phenotypes related to negative regulation of T cell activation.
